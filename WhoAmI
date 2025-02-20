@@ -1,0 +1,5 @@
+def WhoAmI():
+    return 'zl3547'
+
+if __name__ == "__main__":
+    print(WhoAmI())
